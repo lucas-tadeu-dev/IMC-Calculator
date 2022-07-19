@@ -7,7 +7,7 @@ para colocar em baixo do resultado observações importantes como: se a pessoa e
 
 ![image](https://user-images.githubusercontent.com/104043012/178167844-7c83b0df-b3f6-45f0-931e-33b7dee8dae0.png)
 
-Também fiz um sistemas para prever erros e imformá-los ao usúario, como no exemplo abaixo :
+Também fiz um sistemas para prever erros e informá-los ao usúario, como no exemplo abaixo :
 
 
 ![image](https://user-images.githubusercontent.com/104043012/178167910-75fa2d5f-132e-449a-b8e2-5ea655e15fe6.png)
